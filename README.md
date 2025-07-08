@@ -11,6 +11,7 @@ This repo demonstrates classic **Design Patterns** implemented in both **JavaScr
 |            | Singleton | Logger 📜          |     | ✅  |
 | Behavioral | Observer  | Youtube Channel 📺 |     | ✅  |
 |            | Strategy  | Navigation App 🗺️  |     | ✅  |
+|            | Iterator  | Playlist 🎵        |     | ✅  |
 
 ---
 
