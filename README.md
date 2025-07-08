@@ -13,6 +13,7 @@ This repo demonstrates classic **Design Patterns** implemented in both **JavaScr
 |            | Strategy  | Navigation App 🗺️  |     | ✅  |
 |            | Iterator  | Playlist 🎵        |     | ✅  |
 | Structural | Facade    | Coffee Machine ☕  |     | ✅  |
+|            | Adapter   | Power Adapter 🔌   |     | ✅  |
 
 ---
 
