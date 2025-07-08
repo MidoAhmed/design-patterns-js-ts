@@ -4,9 +4,11 @@ This repo demonstrates classic **Design Patterns** implemented in both **JavaScr
 
 ## 📦 Patterns Implemented
 
-| Pattern | Analogy           | JS  | TS  |
-| ------- | ----------------- | --- | --- |
-| Factory | Coffee Barista ☕ |     | ✅  |
+| Pattern   | Analogy           | JS  | TS  |
+| --------- | ----------------- | --- | --- |
+| Factory   | Coffee Barista ☕ |     | ✅  |
+| Builder   | Burger Builder 🍔 |     | ✅  |
+| Singleton | Logger 📜         |     | ✅  |
 
 ---
 
