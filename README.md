@@ -17,9 +17,6 @@ This repo demonstrates classic **Design Patterns** implemented in both **JavaScr
 git clone https://github.com/yourusername/design-patterns-js-ts.git
 cd design-patterns-js-ts
 
-# Install dependencies (if any are used)
-npm install
-
 # Run example
 # if using Node V22.6.0 and above
 node --experimental-strip-types path/to/your/example.ts
