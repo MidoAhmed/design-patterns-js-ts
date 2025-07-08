@@ -4,16 +4,16 @@ This repo demonstrates classic **Design Patterns** implemented in both **JavaScr
 
 ## 📦 Patterns Implemented
 
-| Category   | Pattern   | Analogy            | JS  | TS  |
-| ---------- | --------- | ------------------ | --- | --- |
-| Creational | Factory   | Coffee Barista ☕  |     | ✅  |
-|            | Builder   | Burger Builder 🍔  |     | ✅  |
-|            | Singleton | Logger 📜          |     | ✅  |
-| Behavioral | Observer  | Youtube Channel 📺 |     | ✅  |
-|            | Strategy  | Navigation App 🗺️  |     | ✅  |
-|            | Iterator  | Playlist 🎵        |     | ✅  |
-| Structural | Facade    | Coffee Machine ☕  |     | ✅  |
-|            | Adapter   | Power Adapter 🔌   |     | ✅  |
+| Category   | Pattern   | Analogy            | JS  | TS  | Purpose / Use Case                      |
+| ---------- | --------- | ------------------ | --- | --- | --------------------------------------- |
+| Creational | Factory   | Coffee Barista ☕  |     | ✅  | Create families of related objects      |
+|            | Builder   | Burger Builder 🍔  |     | ✅  | Construct complex objects step-by-step  |
+|            | Singleton | Logger 📜          |     | ✅  | Single instance management              |
+| Behavioral | Observer  | Youtube Channel 📺 |     | ✅  | One-to-many dependency and notification |
+|            | Strategy  | Navigation App 🗺️  |     | ✅  | Interchangeable algorithms              |
+|            | Iterator  | Playlist 🎵        |     | ✅  | Sequential access to collections        |
+| Structural | Facade    | Coffee Machine ☕  |     | ✅  | Simplify complex subsystems             |
+|            | Adapter   | Power Adapter 🔌   |     | ✅  | Interface compatibility                 |
 
 ---
 
